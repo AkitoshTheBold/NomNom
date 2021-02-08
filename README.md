@@ -12,3 +12,4 @@ in a suitable directory.
 ```bash
 $ java -jar ./NomNom.jar
 ```
+![the game in action](screenshot.png)
