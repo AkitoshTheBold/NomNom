@@ -5,7 +5,7 @@ A simple game I made in java for a school Science fair/project in 2017 over the 
 
 - download / clone this repository in a suitable directory.
 ```bash
-$ git clone https://github.com/AkitoshTheBold/NomNom....git
+$ git clone https://github.com/AkitoshTheBold/NomNom.git
 ```
 - run as 
 ```bash
