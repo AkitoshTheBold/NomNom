@@ -3,13 +3,13 @@ A simple game I made in java for a school project in 2017
 
 # Installation/Usage
 
-- download this repo/clone it as
+- download / clone this repository in a suitable directory.
 ```bash
 $ git clone https://github.com/AkitoshTheBold/NomNom....git
 ```
-in a suitable directory.
 - run as 
 ```bash
 $ java -jar ./NomNom.jar
 ```
+- Enjoy!!
 ![the game in action](screenshot.png)
